@@ -1,0 +1,34 @@
+.aboutB {
+	margin: auto;
+	color: blue;
+	text-align: center;
+	font-family: 'Pridi', serif;
+}
+
+.aboutC {
+	margin: auto;
+	text-align: center;
+	background-color: skyblue;
+	max-width: 200px;
+	border: 7px solid black;
+	border-radius: 20%;
+	font-size: 40px;
+	font-family: 'Pridi', serif;
+	
+
+}
+
+.aboutS {
+	margin: auto;
+	text-align: center;
+	background-color: skyblue;
+	max-width: 900px;
+	border: 7px solid black;
+	border-radius: 20%;
+	font-size: 20px;
+	font-family: 'Pridi', serif;
+}
+.yo {
+	background-color: black;
+}
+

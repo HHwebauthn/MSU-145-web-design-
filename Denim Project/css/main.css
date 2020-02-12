@@ -1,0 +1,59 @@
+.mainS {
+	position: absolute;
+	top: 375px;
+	left: 200px;
+	background-color: white ;
+	border: 2px;
+	border-color: black;
+
+}
+
+.mainE{
+	position: absolute;
+	top: 600px;
+	left: 200px;
+	background-color: aliceblue;
+}
+
+.mainR{
+	position: absolute;
+	top: 375px;
+	right: 300px;
+	background-color: aliceblue;
+}
+
+.mainT {
+	position: absolute;
+	top: 600px;
+	right: 200px;
+	background-color: aliceblue;
+}
+
+
+.maincol {
+
+	margin: auto;
+	float: left;
+	width: 25%;
+	font-family: 'Arbutus', cursive;
+	
+}
+
+.mainrow {
+
+	display: flex;
+}
+
+.mainrow:after{
+
+	display: table;
+	clear: both;
+}
+.slogan{
+	text-align: center;
+	color: skyblue;
+	padding-top: 10px;
+	font-family: 'Cookie', cursive;
+	font-size: 40px;
+
+}

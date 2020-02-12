@@ -1,0 +1,32 @@
+.row{
+	display: flex;
+
+
+}
+
+
+.col{
+
+	margin: auto;
+	float: left;
+	width: 25%;
+	
+
+}
+.w-33{
+
+}
+.w-66{
+
+}
+
+
+button {
+	
+	
+}
+
+button:hover {
+	background-color: #210B61;
+	border-radius: 25%;
+}

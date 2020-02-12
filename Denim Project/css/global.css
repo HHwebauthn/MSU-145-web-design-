@@ -1,0 +1,205 @@
+*{
+	box-sizing: border-box;
+}
+
+
+html{
+	background-color: black;
+	
+	
+}
+body{
+	
+	max-width: 1300px;
+	border: 5px solid black;
+	margin: auto;
+	max-height: 300px;
+	
+	
+}
+
+
+footer{
+	background-color: #6BA2C6;
+	border-top: 4px solid black;
+}
+
+
+
+header{
+	color: white;
+	font-size: 12px;
+	float: right;
+	
+
+
+}
+
+
+
+h1{
+	
+	
+}
+h2{
+	padding: 20px 20px;
+	font-family: 'Baloo Bhai', cursive;
+	font-size: 35px;
+
+}
+h3{
+	padding: 10px 10px;
+}
+
+.aboutB{
+	margin: auto;
+
+}
+
+
+.main{
+	float: right;
+}
+.main li{
+	float: left;
+	list-style-type: none;
+}
+
+.main li a{
+	padding: 20px 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-right: 3px  solid black;
+	margin-left: 10px;
+	transition: all 0.3s linear;
+	color: white;
+	
+}
+
+.main li a:hover{
+	background-color: #2E9AFE;
+	border-radius: 20%;
+	width: 400px;
+}
+
+section{
+	padding: 10px 10px;
+} 
+
+
+.container{
+	
+}
+
+.logo{
+	position: absolute;
+	top: 30px;
+	max-width: 375px;
+	max-height: 175px;
+	background-color: black;
+}
+.women{
+	max-width: 300px;
+	max-height:350px;
+	border: 5px solid black;
+
+}
+.men2{
+	max-width: 300px;
+	max-height:350px;
+	border: 5px solid black;
+
+}
+.slogan{
+	text-align: center;
+	color: skyblue;
+	padding-top: 10px;
+	font-family: 'Cookie', cursive;
+	font-size: 40px;
+
+}
+
+.parallax {
+	background-image: url("../images/mainpic.JPG");
+
+	height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.parallax2 {
+	background-image: url("../images/cowboy2.JPG");
+
+	height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.parallax3 {
+	background-image: url("../images/cowboy1.JPG");
+
+	height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.mainO {
+	color: gold;
+	font-family: 'Arbutus', cursive;
+	font-size: 40px;
+	
+}
+.mainP {
+	color: gold;
+	font-family: 'Arbutus', cursive;
+	font-size: 40px;
+	padding-left: 70px;
+}
+
+.price {
+	color: black;
+	max-width: 90px;
+	padding-left: 20px;
+	font-size: 20px;
+	font-family: 'Pridi', serif;
+	background-color: #2E9AFE;
+	border:4px solid black;
+
+}
+
+
+.colpic{
+	max-width: 250px;
+	max-height: 200px;
+	border: 5px solid black;
+	
+	
+}
+.row{
+	padding-left: 100px;
+	padding-top: 50px;
+}
+
+.Placeholder{
+
+	background-color: blue;
+}
+
+
+.maincol {
+
+	margin: auto;
+	float: left;
+	width: 25%;
+	
+}
+
+.mainrow {
+
+	display: flex;
+}
